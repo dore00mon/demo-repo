@@ -1,4 +1,3 @@
 # Demo
 
-Some Description!
-Changes
+Some Description! Changes
